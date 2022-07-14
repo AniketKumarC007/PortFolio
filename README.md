@@ -1,4 +1,4 @@
-# PortFolio
+# PortFolio Website
 **This is fully Responsive PortFolio Website built on React.js 
 
 ## Dependencies used
