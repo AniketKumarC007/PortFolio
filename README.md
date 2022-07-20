@@ -16,4 +16,4 @@
 - Open terminal and Run `npm start` to start the server.
 - Open http://localhost:3000 to view it in the browser.
 ## Deployed Link 
-- [My PortFolio](shorturl.at/efhW4)
+- [My PortFolio](https://62d81a0b91f34906b80bf452--courageous-cocada-2ac1c1.netlify.app/)
